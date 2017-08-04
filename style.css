@@ -1,0 +1,54 @@
+/* Put your css in here */
+
+.message-section {
+    border: 1px solid green;
+    background-color: aliceblue;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+.messages-body {
+    width: 449px;
+    height: 458px;
+}
+
+.new-message-field input {
+    width: 100%;
+    height: 40px;
+}
+
+.button-section {
+    position: relative;
+}
+
+.send-btn {
+    position: absolute;
+    left: 60.5%;
+    top: -39px;
+    height: 37px;
+    background: green;
+    color: #fff;
+    border: 1px solid green;
+    width: 77px;
+}
+
+.send-text {
+    position: relative;
+    left: 10px;
+    width: 106%;
+    padding: 5px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.receive-text {
+    position: relative;
+    left: 10px;
+    width: 106%;
+    padding: 5px;
+    background: #fff;
+    border-radius: 10px;
+    text-align: right;
+    background: #f7eded;
+}
